@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  
+}
+div{
+  padding :10px;  
+}
+select{
+  padding: 5px;
+  background-color: coral;
+}
+.colour{
+  background-color: blue;
+  color: aliceblue;
+  font-weight: bold;
+}
+.background{
+  background-color: green;
+  color: white
+}
+.btn:hover{
+  background-color: red;
+}
